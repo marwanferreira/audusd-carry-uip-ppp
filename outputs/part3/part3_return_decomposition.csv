@@ -1,0 +1,3 @@
+sample,mean_monthly_strategy_log_return,mean_monthly_carry_component,mean_monthly_fx_component
+In-sample,0.004306766856396233,0.0019933646213224406,0.002313402235073791
+Out-of-sample,0.008527707478393914,0.00044513504132932363,0.00808257243706459

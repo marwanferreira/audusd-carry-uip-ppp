@@ -1,3 +1,0 @@
-model,theoretical_alpha,theoretical_beta,null_hypothesis,alternative_hypothesis
-UIP,0,1,H0: alpha = 0 and beta = 1,H1: alpha != 0 and/or beta != 1
-PPP,0,1,H0: alpha = 0 and beta = 1,H1: alpha != 0 and/or beta != 1
