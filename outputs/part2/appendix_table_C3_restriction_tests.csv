@@ -1,0 +1,5 @@
+Model,Test,Test type,Statistic,p-value,Conclusion
+UIP,β = 1,t-test,-1.5194,0.1311,Do not reject at 5%
+UIP,α = 0 and β = 1,joint F-test,1.5037,0.2262,Do not reject at 5%
+PPP,β = 1,t-test,-0.3034,0.762,Do not reject at 5%
+PPP,α = 0 and β = 1,joint F-test,0.0969,0.9077,Do not reject at 5%

@@ -1,0 +1,6 @@
+Series,Mean,Standard deviation,Minimum,Maximum
+Actual monthly change in S(USD/AUD),0.000373,0.033698,-0.089228,0.097391
+UIP-implied monthly change,-0.001206,0.001596,-0.00395,0.001233
+PPP-implied monthly change,-7.6e-05,0.00335,-0.009147,0.011982
+UIP deviation: model-implied minus actual,-0.00158,0.033852,-0.099774,0.085286
+PPP deviation: model-implied minus actual,-0.00045,0.03373,-0.096163,0.088772

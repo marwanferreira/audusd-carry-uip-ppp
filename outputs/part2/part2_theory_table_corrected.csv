@@ -1,3 +1,0 @@
-model,regression_equation,theoretical_alpha,theoretical_beta,null_hypothesis,alternative_hypothesis
-UIP,"Δs_t = α + β(i_US,t - i_AUS,t) + ε_t",0,1,H0: alpha = 0 and beta = 1,H1: alpha != 0 and/or beta != 1
-PPP,"Δs_t = α + β(π_US,t - π_AUS,t) + ε_t",0,1,H0: alpha = 0 and beta = 1,H1: alpha != 0 and/or beta != 1
