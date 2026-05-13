@@ -1,0 +1,8 @@
+Item,Implementation rule
+Exchange rate convention,"S(USD/AUD), the U.S. dollar price of one Australian dollar."
+Strategy signal,Previous-month short-term interest rate differential.
+Long AUD / short USD condition,Used when the previous-month Australian rate is above the U.S. rate.
+Long USD / short AUD condition,Used when the previous-month U.S. rate is above the Australian rate.
+Timing,Positions use lagged interest rates to avoid look-ahead bias.
+Rebalancing frequency,Monthly.
+Return calculation,Monthly return combines the carry component and the realised change in S(USD/AUD).
